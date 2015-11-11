@@ -1,0 +1,12 @@
+[submodule "client/dependencies/rvc"]
+	path = client/dependencies/rvc
+	url = https://github.com/dwsmorris/rvc
+[submodule "client/dependencies/ractive"]
+	path = client/dependencies/ractive
+	url = https://github.com/ractivejs/ractive
+[submodule "client/dependencies/requirejs"]
+	path = client/dependencies/requirejs
+	url = https://github.com/jrburke/requirejs
+[submodule "client/dependencies/text"]
+	path = client/dependencies/text
+	url = https://github.com/requirejs/text
