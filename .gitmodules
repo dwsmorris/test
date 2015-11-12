@@ -10,3 +10,9 @@
 [submodule "client/dependencies/text"]
 	path = client/dependencies/text
 	url = https://github.com/requirejs/text
+[submodule "client/dependencies/ramda"]
+	path = client/dependencies/ramda
+	url = https://github.com/ramda/ramda
+[submodule "client/dependencies/jasmine"]
+	path = client/dependencies/jasmine
+	url = https://github.com/jasmine/jasmine
